@@ -38,6 +38,10 @@ Multi-Pointer Co-Attention Networks for Recommendation,  KDD 2018
 
 Deep Matrix Factorization Models for Recommender Systems
 
+## Top Conferences
+1. https://recsys.acm.org/
+
+
 ## Others
 Evaluation of Session-based Recommendation Algorithms 
 
